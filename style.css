@@ -1,0 +1,169 @@
+.nav-link{
+    margin-right:35px;
+    margin-top: 60px;
+    float:right;
+}
+
+
+.nav-logo{
+    margin-left:150px;
+    margin-top:30px;
+    float:left;
+       
+}
+
+#principal{
+    background-color:#38b6ff;
+    width:100%;
+    height:520px;
+    margin-top:70px;
+    padding-top:50px;
+}
+
+.nav-link{
+    background-color:#E9566B;
+    border-radius:10px;
+    color:white;
+    font-family:arial ;
+    font-weight: bolder;
+
+}
+
+#topo{
+    background-color:#38b6ff;
+    width:100%;
+    height:20px;
+}
+
+.texto1{
+    color:white;
+    padding-left:150px;
+    padding-top:10px;
+    font-size: 110px;
+    font-family: arial;
+    font-weight: bold;
+}
+
+.texto2{
+    padding-right:190px;
+    position:relative;
+    right: 150px;
+    color:white;
+    font-family:arial;
+    font-weight: bolder;
+    font-size: 24px;
+    padding:10px;
+}
+
+.rodape{
+    margin-left:300px;
+    margin-top: 40px;
+    margin-bottom: 45px;
+    float:left;
+}
+
+#final{
+    background-color:#38b6ff;
+    width:100%;
+    height:0px;    
+}
+
+.social{
+    text-align: right;   
+    margin-right:300px;
+    float:right;
+    padding-top:35px;
+}
+
+.social-icon{
+    padding:7px;
+}
+
+.port{
+    border-radius: 10px;
+}
+
+
+
+.container{
+    margin-left:230px;
+    margin-top:60px;   
+}
+
+.corpo{
+    background-color:#38b6ff;
+    width:100%;
+    height:520px;
+    margin-top:70px;
+}
+
+.form-group label{
+    color:white;
+    font-weight: bold;
+    font-family: arial;
+
+}
+
+.btn{
+    background-color:#E9566B;
+    color:white;
+    border-color:#E9566B;
+    font-weight: bold;
+}
+
+.contact{
+    color:white;
+    font-weight: bold;
+    font-family: arial;
+}
+
+.form{
+    padding-top:55px;
+}
+
+#carouselExampleFade{
+    margin-right:45px;
+}
+
+.texto2-1{
+    padding-right:190px;
+    position:relative;
+    right: 150px;
+    color:white;
+    font-family:arial ;
+    font-weight: bolder;
+    font-size: 24px;
+    border:7x solid;
+    border-radius:25px;
+    border-color:white;
+    padding:10px;
+    margin-top:60px;
+}
+
+.share{
+    color:white;
+   
+}
+
+.share :hover{
+    color:white;
+    
+}
+
+.btn :hover{
+    text-decoration: none;
+}
+
+.fab-icon3{
+    color:#38b6ff;
+}
+
+.fab-icon2{
+    color:#38b6ff;
+}
+
+.fab-icon1{
+    color:#38b6ff;
+}
+
+
